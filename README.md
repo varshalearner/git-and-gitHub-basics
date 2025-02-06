@@ -1,2 +1,3 @@
 # git-and-gitHub-basics
-<p> basics of github </p>
+<p> basics of git,  github </p>
+# git-and-github
